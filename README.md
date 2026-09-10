@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/nanda-ayu-8a1a08288" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/nandaayta" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.tiktok.com/@nanayta" title="TikTok Profile"><img width="22" src="images/tiktok.png"> TikTok</a></code>
+  <code><a href="https://www.tiktok.com/@nanayta_" title="TikTok Profile"><img width="22" src="images/tiktok.png"> TikTok</a></code>
 </h5>
 <br>
 <p align="center">
