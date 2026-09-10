@@ -22,7 +22,7 @@
   <br>
   💻 Tech stack: PHP, Laravel, TypeScript, Flutter, Java, & CSS
   <br>
-  💬 Tanya apa saja atau ngobrol santai lewat <a href="https://www.instagram.com/nandaayta" title="Issues">Instagram</a> ya!
+  💬 Tanya apa saja atau ngobrol santai lewat <a href="https://www.instagram.com/nandaayta" title="Instagram">Instagram</a> ya!
   <br>
 </p>
 
@@ -40,7 +40,7 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="mysql" height="25" src="images/mysql.svg"></code>
-  <code><img title="react" height="25" src="images/rect.png"></code>
+  <code><img title="react" height="25" src="images/react-original.svg"></code>
 </p>
 <hr>
 
