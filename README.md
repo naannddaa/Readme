@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Nanda+asta+...;Software+Developer;She+coded+her+own+way+out!&center=true&size=30&color=61DAFB">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Nanda+asta+...;Software+Developer;She+coded+her+own+way+out!&center=true&size=30&color=FF69B4">
   </a>
 </h1>
 
@@ -49,12 +49,10 @@
 <p align=center>
   <div align=center>
     <a href="" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=naannddaa&theme=react&border=61dafb&hide_border=true" alt="naannddaa" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=naannddaa&theme=react&border=ff69b4&hide_border=true" alt="naannddaa" />
     </a>
-
   </div>
   <br><br><br><br><br><br><br><br><br>
-
 </p>
 
 <hr>
