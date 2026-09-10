@@ -2,18 +2,18 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Nanda+asta+...;Software+Developer+Enthusiast;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?I'm+Nanda+asta+...;Software+Developer;She+coded her+own+way+out!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/nanda-ayu-8a1a08288" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/nandaayta" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.tiktok.com/@nanayta" title="TikTok Profile"><img width="22" src="images/tiktok.png"> TikTok (@nanayta)</a></code>
+  <code><a href="https://www.tiktok.com/@nanayta" title="TikTok Profile"><img width="22" src="images/tiktok.png"> TikTok</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Nandaasta, Software Developer Enthusiast & Creator
+  Hi, I'm Nandaasta, Software Developer Enthusiast & Affiliator
   <br>
   <br>
   🎓 D4 Teknik Informatika
